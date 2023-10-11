@@ -8,9 +8,9 @@
 
 ## Exercises
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Message Board Tables  | Relational DB Tables | [Exercise](topics/databases/table_for_message_board_system.md) | [Solution](topics/databases/solutions/table_for_message_board_system.md)
+| Message Board Tables  | Relational DB Tables | [Exercise](topics/databases/table_for_message_board_system.md) 
 
 ## Questions
 

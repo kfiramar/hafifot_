@@ -4,11 +4,11 @@
 
 ### Ansible Exercises
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| My First Task | Tasks | [Exercise](my_first_task.md) | [Solution](solutions/my_first_task.md)
-| Upgrade and Update Task | Tasks | [Exercise](update_upgrade_task.md) | [Solution](solutions/update_upgrade_task.md)
-| My First Playbook | Playbooks | [Exercise](my_first_playbook.md) | [Solution](solutions/my_first_playbook.md)
+| My First Task | Tasks | [Exercise](my_first_task.md) 
+| Upgrade and Update Task | Tasks | [Exercise](update_upgrade_task.md) 
+| My First Playbook | Playbooks | [Exercise](my_first_playbook.md) 
 	
 
 ### Ansible Self Assessment

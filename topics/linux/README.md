@@ -51,17 +51,17 @@ Disclaimer: developed by repository owner
 
 ### Basics
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Navigation | cd, pwd | [Exercise](exercises/navigation/README.md) | [Solution](exercises/navigation/solution.md)
-| Create and Destroy | touch, rm, mkdir | [Exercise](exercises/create_remove/README.md) | [Solution](exercises/create_remove/solution.md)
-| Copy Time | touch, cp, ls | [Exercise](exercises/copy/README.md) | [Solution](exercises/copy/solution.md)
+| Navigation | cd, pwd | [Exercise](exercises/navigation/README.md) 
+| Create and Destroy | touch, rm, mkdir | [Exercise](exercises/create_remove/README.md) 
+| Copy Time | touch, cp, ls | [Exercise](exercises/copy/README.md) 
 
 ### Misc
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Unique Count |  | [Exercise](exercises/uniqe_count/README.md) | [Solution](exercises/uniqe_count/solution.md)
+| Unique Count |  | [Exercise](exercises/uniqe_count/README.md) 
 
 ## Linux Questions
 

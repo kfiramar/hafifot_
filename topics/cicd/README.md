@@ -2,12 +2,12 @@
 
 ### CI/CD Exercises
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
 | Set up a CI pipeline | CI | [Exercise](ci_for_open_source_project.md) | | |
-| Deploy to Kubernetes | Deployment | [Exercise](deploy_to_kubernetes.md) | [Solution](solutions/deploy_to_kubernetes/README.md) | |
-| Jenkins - Remove Jobs | Jenkins Scripts | [Exercise](remove_jobs.md) | [Solution](solutions/remove_jobs_solution.groovy) | |
-| Jenkins - Remove Builds | Jenkins Scripts | [Exercise](remove_builds.md) | [Solution](solutions/remove_builds_solution.groovy) | |
+| Deploy to Kubernetes | Deployment | [Exercise](deploy_to_kubernetes.md)  | |
+| Jenkins - Remove Jobs | Jenkins Scripts | [Exercise](remove_jobs.md)  | |
+| Jenkins - Remove Builds | Jenkins Scripts | [Exercise](remove_builds.md)  | |
 
 ### CI/CD Self Assessment
 

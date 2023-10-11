@@ -2,10 +2,10 @@
 
 ### OpenShift Exercises
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Projects 101 | Projects | [Exercise](projects_101.md) | [Solution](solutions/projects_101.md)
-| My First Application | Applications | [Exercise](my_first_app.md) | [Solution](solutions/my_first_app.md)
+| Projects 101 | Projects | [Exercise](projects_101.md) 
+| My First Application | Applications | [Exercise](my_first_app.md) 
 
 ### OpenShift Self Assessment
 

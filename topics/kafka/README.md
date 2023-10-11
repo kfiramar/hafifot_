@@ -2,7 +2,7 @@
 
 ## Kafka Exercises
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
 
 ## Kafka Self Assessment

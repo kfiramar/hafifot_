@@ -75,44 +75,44 @@ What's your goal?
 
 ### Pods
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| My First Pod | Pods | [Exercise](pods_01.md) | [Solution](solutions/pods_01_solution.md)
-| "Killing" Containers | Pods | [Exercise](killing_containers.md) | [Solution](solutions/killing_containers.md)
+| My First Pod | Pods | [Exercise](pods_01.md) 
+| "Killing" Containers | Pods | [Exercise](killing_containers.md) 
 
 ### Service
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Creating a Service | Service | [Exercise](services_01.md) | [Solution](solutions/services_01_solution.md)
+| Creating a Service | Service | [Exercise](services_01.md) 
 
 ### ReplicaSet
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Creating a ReplicaSet | ReplicaSet | [Exercise](replicaset_01.md) | [Solution](solutions/replicaset_01_solution.md)
-| Operating ReplicaSets | ReplicaSet | [Exercise](replicaset_02.md) | [Solution](solutions/replicaset_02_solution.md)
-| ReplicaSets Selectors | ReplicaSet | [Exercise](replicaset_03.md) | [Solution](solutions/replicaset_03_solution.md)
+| Creating a ReplicaSet | ReplicaSet | [Exercise](replicaset_01.md) 
+| Operating ReplicaSets | ReplicaSet | [Exercise](replicaset_02.md) 
+| ReplicaSets Selectors | ReplicaSet | [Exercise](replicaset_03.md) 
 
 ### Labels and Selectors
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Labels and Selectors 101 | Labels, Selectors | [Exercise](exercises/labels_and_selectors/exercise.md) | [Solution](exercises/labels_and_selectors/solution.md)
-| Node Selectors | Labels, Selectors | [Exercise](exercises/node_selectors/exercise.md) | [Solution](exercises/node_selectors/solution.md)
+| Labels and Selectors 101 | Labels, Selectors | [Exercise](exercises/labels_and_selectors/exercise.md) 
+| Node Selectors | Labels, Selectors | [Exercise](exercises/node_selectors/exercise.md) 
 
 
 ### Scheduler
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| Taints 101 | Taints | [Exercise](exercises/taints_101/exercise.md) | [Solution](exercises/taints_101/solution.md)
+| Taints 101 | Taints | [Exercise](exercises/taints_101/exercise.md) 
 
 ### Kustomize
 
-|Name|Topic|Objective & Instructions|Solution|Comments|
+|Name|Topic|Objective & Instructions|Comments|
 |--------|--------|------|----|----|
-| common labels | Kustomize | [Exercise](exercises/kustomize_common_labels/exercise.md) | [Solution](exercises/kustomize_common_labels/solution.md)
+| common labels | Kustomize | [Exercise](exercises/kustomize_common_labels/exercise.md) 
 
 ## Kubernetes Questions
 
