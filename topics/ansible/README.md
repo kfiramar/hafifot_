@@ -5,7 +5,7 @@
 ### Ansible Exercises
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | My First Task | Tasks | [Exercise](my_first_task.md) 
 | Upgrade and Update Task | Tasks | [Exercise](update_upgrade_task.md) 
 | My First Playbook | Playbooks | [Exercise](my_first_playbook.md) 

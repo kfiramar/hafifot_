@@ -76,20 +76,20 @@ What's your goal?
 ### Pods
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | My First Pod | Pods | [Exercise](pods_01.md) 
 | "Killing" Containers | Pods | [Exercise](killing_containers.md) 
 
 ### Service
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Creating a Service | Service | [Exercise](services_01.md) 
 
 ### ReplicaSet
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Creating a ReplicaSet | ReplicaSet | [Exercise](replicaset_01.md) 
 | Operating ReplicaSets | ReplicaSet | [Exercise](replicaset_02.md) 
 | ReplicaSets Selectors | ReplicaSet | [Exercise](replicaset_03.md) 
@@ -97,7 +97,7 @@ What's your goal?
 ### Labels and Selectors
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Labels and Selectors 101 | Labels, Selectors | [Exercise](exercises/labels_and_selectors/exercise.md) 
 | Node Selectors | Labels, Selectors | [Exercise](exercises/node_selectors/exercise.md) 
 
@@ -105,13 +105,13 @@ What's your goal?
 ### Scheduler
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Taints 101 | Taints | [Exercise](exercises/taints_101/exercise.md) 
 
 ### Kustomize
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | common labels | Kustomize | [Exercise](exercises/kustomize_common_labels/exercise.md) 
 
 ## Kubernetes Questions

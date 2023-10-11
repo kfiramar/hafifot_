@@ -3,7 +3,7 @@
 ### Shell Scripting Exercises
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 |Hello World|Variables|[Exercise](hello_world.md)|[Solution](solutions/hello_world.md) | Basic
 |Basic date|Variables|[Exercise](basic_date.md)|[Solution](solutions/basic_date.md) | Basic
 |Great Day|Variables|[Exercise](great_day.md)|[Solution](solutions/great_day.md) | Basic

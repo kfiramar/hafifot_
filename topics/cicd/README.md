@@ -3,7 +3,7 @@
 ### CI/CD Exercises
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Set up a CI pipeline | CI | [Exercise](ci_for_open_source_project.md) | | |
 | Deploy to Kubernetes | Deployment | [Exercise](deploy_to_kubernetes.md)  | |
 | Jenkins - Remove Jobs | Jenkins Scripts | [Exercise](remove_jobs.md)  | |

@@ -27,7 +27,7 @@
 ### ArgoCD 101
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Creating an App | App | [Exercise](exercises/app_creation/exercise.md) 
 | Syncing App - Git | Sync | [Exercise](exercises/sync_app_git/exercise.md) 
 | Syncing App - Cluster | Sync | [Exercise](exercises/sync_app_cluster/exercise.md) 
@@ -35,19 +35,19 @@
 ### ArgoCD Secrets
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Secrets 101 | Secrets | [Exercise](exercises/secrets_101/exercise.md) 
 
 ### ArgoCD Helm
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Helm ArgoCD App | Secrets | [Exercise](exercises/argocd_helm_app/exercise.md) 
 
 ### Argo Rollouts
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Blue/Green Rollout | Rollouts | [Exercise](exercises/blue_green_rollout/exercise.md) 
 | Canary Rollout | Rollouts | [Exercise](exercises/canary_rollout/exercise.md) 
 

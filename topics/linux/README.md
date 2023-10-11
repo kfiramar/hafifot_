@@ -52,7 +52,7 @@ Disclaimer: developed by repository owner
 ### Basics
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Navigation | cd, pwd | [Exercise](exercises/navigation/README.md) 
 | Create and Destroy | touch, rm, mkdir | [Exercise](exercises/create_remove/README.md) 
 | Copy Time | touch, cp, ls | [Exercise](exercises/copy/README.md) 
@@ -60,7 +60,7 @@ Disclaimer: developed by repository owner
 ### Misc
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Unique Count |  | [Exercise](exercises/uniqe_count/README.md) 
 
 ## Linux Questions

@@ -3,7 +3,7 @@
 ### OpenShift Exercises
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Projects 101 | Projects | [Exercise](projects_101.md) 
 | My First Application | Applications | [Exercise](my_first_app.md) 
 

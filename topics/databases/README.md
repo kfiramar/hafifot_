@@ -9,7 +9,7 @@
 ## Exercises
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 | Message Board Tables  | Relational DB Tables | [Exercise](topics/databases/table_for_message_board_system.md) 
 
 ## Questions

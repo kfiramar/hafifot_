@@ -30,7 +30,7 @@
 ### Running Containers
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 |Running Containers|Basics|[Exercise](running_containers.md)|[Solution](solutions/running_containers.md)
 |Containerized Web Server|Applications|[Exercise](containerized_web_server.md)|[Solution](solutions/containerized_web_server.md)
 |Containerized Database|Applications|[Exercise](containerized_db.md)|[Solution](solutions/containerized_db.md)
@@ -40,7 +40,7 @@
 ### Images
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 |Working with Images|Image|[Exercise](working_with_images.md)|[Solution](solutions/working_with_images.md)
 |Sharing Images (without a registry)|Images|[Exercise](sharing_images.md)|[Solution](solutions/sharing_images.md)
 |Creating images on the fly|Images|[Exercise](commit_image.md)|[Solution](solutions/commit_image.md)
@@ -50,7 +50,7 @@
 ### Misc
 
 |Name|Topic|Objective & Instructions|Comments|
-|--------|--------|------|----|----|
+|--------|--------|------|----|
 |Run, Forest, Run!|Restart Policies|[Exercise](run_forest_run.md)|[Solution](solutions/run_forest_run.md)
 |Layer by Layer|Image Layers|[Exercise](image_layers.md)|[Solution](solutions/image_layers.md)
 |Containerize an application | Containerization |[Exercise](containerize_app.md)|[Solution](solutions/containerize_app.md)
